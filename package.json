@@ -1,0 +1,39 @@
+{
+  "name": "pandju",
+  "displayName": "Pandju",
+  "description": "Raijū meets panda",
+  "license": "MIT",
+  "version": "1.0.0",
+  "publisher": "TobiasTimm",
+  "icon": "icon.png",
+  "preview": true,
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "keywords": [
+    "theme",
+    "blue",
+    "raiju",
+    "dark",
+    "panda"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tobiastimm/pandju.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tobiastimm/pandju/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pandju",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pandju.json"
+      }
+    ]
+  }
+}
