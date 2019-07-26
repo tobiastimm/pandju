@@ -2,6 +2,11 @@
 
 import * as React from 'react';
 
+/**
+ *
+ * `Helloo` and `hello`
+ */
+
 interface Sample {
   type: string | undefined;
   name?: string;
@@ -17,7 +22,7 @@ type SampleType = {
 export class Test extends React.Component<{bar: string}, {}>{
   render(){
     return (
-      <div foo={this.props.bar} bar={true} baz={'str'} boz={"other str"}>
+      <div foo={this.props.bar} bar={'true'} baz={'str'} boz={"other str"}>
         <MissionIcon />
       </div>
     );

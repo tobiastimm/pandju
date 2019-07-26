@@ -17,6 +17,9 @@
     "dark",
     "panda"
   ],
+  "scripts": {
+    "publish": "vsce publish"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/tobiastimm/pandju.git"
@@ -33,7 +36,17 @@
         "label": "Pandju",
         "uiTheme": "vs-dark",
         "path": "./themes/pandju.json"
+      },
+      {
+        "label": "Pandju - No italics",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pandju-noitalic.json"
       }
     ]
+  },
+  "__metadata": {
+    "id": "c793f1b7-f404-4166-8768-472123631119",
+    "publisherDisplayName": "Tobias Timm",
+    "publisherId": "5e0244e1-b94f-4e44-8cdc-1397334a044f"
   }
 }
