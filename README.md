@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/tobiastimm/pandju/master/icon.png" width="256">
-
 # Pandju
 
 [![Version](https://img.shields.io/vscode-marketplace/v/TobiasTimm.pandju.svg?style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=TobiasTimm.pandju)
