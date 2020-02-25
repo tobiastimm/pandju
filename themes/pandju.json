@@ -141,7 +141,7 @@
     "terminal.ansiWhite": "#d7e2ff",
     "terminal.ansiBrightWhite": "#d7e2ff",
     "terminal.foreground": "#e6e6e6",
-    "terminal.selectionBackground": "#67769640",
+    "terminal.selectionBackground": "#a188f140",
     "terminalCursor.foreground": "#a188f1",
     "terminalCursor.background": "#d7e2ff",
     "editorWarning.foreground": "#ffedbb",
