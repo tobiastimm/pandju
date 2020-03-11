@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.0.1
+
+- Fix variable colors
+
+## 1.0.0
+
+- Initial release
+
 ## 0.2.0
 
 - Added non italic version

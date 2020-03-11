@@ -313,6 +313,12 @@
       }
     },
     {
+      "scope": ["entity.name.variable"],
+      "settings": {
+        "foreground": "#e6e6e6"
+      }
+    },
+    {
       "scope": [
         "entity.name",
         "entity.name.type.class",
